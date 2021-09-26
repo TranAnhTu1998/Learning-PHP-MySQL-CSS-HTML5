@@ -30,3 +30,10 @@ But for developing and testing websites and applications, one of these installat
 
 If you choose not to go the WAMP/MAMP/LAMP route for building your own development system, you should know that downloading and integrating the various parts yourself can be very time consuming and may require a lot of research in order to configure everything fully.
 But if you already have all the components installed and integrated with one another, they should work with the examples in this book.
+
+Installing a WAMP on Windows
+There are several available WAMP servers, each offering slightly different configurations, nut the best is probably Zend Server Free Edition, because it's free and is from the developers of PHP itself.
+You can download it at http://tinyurl.com/zendfree, as shown in Figure2-1
+
+
+
