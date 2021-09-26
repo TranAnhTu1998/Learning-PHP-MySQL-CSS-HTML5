@@ -7,3 +7,26 @@ On a local computer, however, testing can be as easy as saving an update (usuall
 Another advantage of a development server is that you don't have to worry about embarrassing errors or security problems while you're writing and testing, whereas you need to be aware of what people may see or do with your application when it's on a pubic website.
 It's easy to set one up.
 Just follow the steps in the following sections, using the appropriate instructions for a PC, a MAC, or a Linux system.
+
+
+In thí chapter, we cover just the server side of the web experience, as described in Chapter 1. But to test the results of your work - particularly when we start using JavaScript, CSS and HTML5 later in this book - you should also have an instance of every major web browser running on some system convenient to you.
+Whenever possible, the list of browsers should include at least Internet Explorer, Mozilla Firefox, Opera, Safari, and Google Chrome.
+
+If you plan to ensure your site look good on mobile devices too, then you should also tey to arrange access to a wide range of Apple iOS and Google Android phones and tablets.
+
+
+What Is a WAMP, MAMP, OR LAMP?
+WAMP, MAMP, and LAMP are abbreviations for "Window, Apache, MySQL, and PHP", "MAC, Apace, MySQL and PHP" and "Linux, Apache, MySQL, and PHP".
+There abbreviation describe a fully functioning setup used for developing dynamic Internet web pages.
+
+WAMPs, MAPs, and LAMPs come in the form of a package that binds the bundled programs together so that you don't have to install and set them up separately.
+This means you can simply download and install a single program, and follow a few easy prompts, to get your web development server up and running in the quickest time with a minimum hassle.
+
+During installation, several default setting are created for you.
+The security configuration of such an installation will not be tight as on a production web server, because it is optimized for local use.
+For these reasons, you should never install such a setup as aa production server.
+
+But for developing and testing websites and applications, one of these installations should entirely sufficient.
+
+If you choose not to go the WAMP/MAMP/LAMP route for building your own development system, you should know that downloading and integrating the various parts yourself can be very time consuming and may require a lot of research in order to configure everything fully.
+But if you already have all the components installed and integrated with one another, they should work with the examples in this book.
